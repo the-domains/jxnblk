@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[jxnblk]]></title>
         <description><![CDATA[jxnblk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 14:17:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 11 Aug 2015 14:23:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19aef781-b2ad-45e6-b90c-58250ec48f4d.gif">]]></description>
+            <link>https://thegrid.ai/jxnblk/d8753e29-6dc0-498a-8d56-76b459803e26/index.html</link>
+            <guid isPermaLink="false">d8753e29-6dc0-498a-8d56-76b459803e26</guid>
+            <pubDate>Tue, 11 Aug 2015 14:23:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Science]]></title>
             <description><![CDATA[<article><h1>Science</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d881594-7ae5-41cb-bd13-aa948cae1c03.gif"></article>]]></description>
-            <link>undefinedscience/index.html</link>
+            <link>https://thegrid.ai/jxnblk/science/index.html</link>
             <guid isPermaLink="false">b8935089-b844-456b-b581-33310a5958c1</guid>
             <pubDate>Tue, 11 Aug 2015 14:17:40 GMT</pubDate>
         </item>
