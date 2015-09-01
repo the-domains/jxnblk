@@ -5,8 +5,15 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 13:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 13:22:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[React Fitter Happier Text Demo]]></title>
+            <description><![CDATA[<article><h1>React Fitter Happier Text Demo</h1><p></p></article>]]></description>
+            <link>http://jxnblk.com/react-fitter-happier-text/</link>
+            <guid isPermaLink="false">7ae36059-6f44-41b3-ac57-809731af6f73</guid>
+            <pubDate>Tue, 01 Sep 2015 13:22:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building SVG Icons with React]]></title>
             <description><![CDATA[<article><h1>Building SVG Icons with React</h1><p>While traditional graphics applications like Adobe Illustrator work well for certain tasks, they fall short when used to create pixel perfect, mathematically-derived graphics. Anyone who's attempted to create data visualizations with such software might have encountered these limitations.</p><img src="http://jxnblk.s3.amazonaws.com/assets/images/cog-sketch-bw.jpg"></article>]]></description>
