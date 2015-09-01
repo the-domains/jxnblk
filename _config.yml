@@ -1,6 +1,6 @@
 name: jxnblk
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.81081
 typography_spectrum: 0.29376
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#6f8087'
     - '#909da3'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose:
