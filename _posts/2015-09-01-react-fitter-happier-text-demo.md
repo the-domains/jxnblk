@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://jxnblk.com/react-fitter-happier-text/'
 title: React Fitter Happier Text Demo
-datePublished: '2015-09-01T13:22:36.550Z'
-dateModified: '2015-09-01T13:22:02.049Z'
+datePublished: '2015-09-03T12:27:27.328Z'
+dateModified: '2015-09-01T13:22:36.550Z'
 sourcePath: _posts/2015-09-01-react-fitter-happier-text-demo.md
 published: true
 _context: 'http://schema.org'
