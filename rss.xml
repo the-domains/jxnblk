@@ -5,8 +5,15 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 13:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 12:27:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Update really fast]]></title>
+            <description><![CDATA[<article><h1>Update really fast</h1><p>just testing the editor</p></article>]]></description>
+            <link>https://thegrid.ai/jxnblk/update-really-fast/index.html</link>
+            <guid isPermaLink="false">2b8bd884-5b50-411e-bab3-7b500e012d3a</guid>
+            <pubDate>Thu, 03 Sep 2015 12:27:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rgx]]></title>
             <description><![CDATA[<article><h1>rgx</h1><p></p></article>]]></description>
