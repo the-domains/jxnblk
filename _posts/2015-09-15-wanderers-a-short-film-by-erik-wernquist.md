@@ -44,8 +44,8 @@ app_links:
     app_store_id: '425194759'
     app_name: Vimeo
 title: Wanderers - a short film by Erik Wernquist
-datePublished: '2015-09-15T19:34:50.246Z'
-dateModified: '2015-09-15T19:33:26.599Z'
+datePublished: '2015-09-15T19:35:41.258Z'
+dateModified: '2015-09-15T19:34:50.246Z'
 tags:
   - ''
 authors: []
