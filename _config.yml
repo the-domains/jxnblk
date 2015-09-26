@@ -1,7 +1,6 @@
 name: jxnblk
 favicon: null
-layout_spectrum: 0.99484
-typography_spectrum: 0.2288
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -15,17 +14,9 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#ffffff'
-    - '#405660'
-    - '#cfd4d7'
-    - '#6f8087'
-    - '#909da3'
-  brandStrength: 0.9375
-  lightness: 1
-  saturation: 0.8125
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: stars
-    item: null
-    url: null
+purpose: []
