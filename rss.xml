@@ -5,8 +5,15 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 07 Oct 2015 21:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2015 21:30:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No filter]]></title>
+            <description><![CDATA[<article><h1>No filter</h1><img src="https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/10354336_412046425604680_338804030_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/ozVt2ZlocY/?taken-by=jxnblk</link>
+            <guid isPermaLink="false">4fcc1ec3-3e42-4da0-b69b-04e891f1225f</guid>
+            <pubDate>Wed, 07 Oct 2015 21:29:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No filter]]></title>
             <description><![CDATA[<article><h1>No filter</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/e15/10472035_472153749595595_1191759960_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jxnblk.com/react-icons/</link>
             <guid isPermaLink="false">c2531480-3dee-4483-afbe-b24a18b2a9ef</guid>
             <pubDate>Tue, 01 Sep 2015 13:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19aef781-b2ad-45e6-b90c-58250ec48f4d.gif">]]></description>
-            <link>https://thegrid.ai/jxnblk/d8753e29-6dc0-498a-8d56-76b459803e26/index.html</link>
-            <guid isPermaLink="false">d8753e29-6dc0-498a-8d56-76b459803e26</guid>
-            <pubDate>Tue, 11 Aug 2015 14:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
