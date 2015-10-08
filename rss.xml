@@ -5,8 +5,14 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 07 Oct 2015 21:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2015 00:40:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello hello]]></title>
+            <description><![CDATA[<article><h1>Hello hello</h1><p>Hello</p></article>]]></description>
+            <guid isPermaLink="false">93235619-4b79-4af0-88d0-3ee8b8d7622d</guid>
+            <pubDate>Thu, 08 Oct 2015 00:39:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No filter]]></title>
             <description><![CDATA[<article><h1>No filter</h1><img src="https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/10354336_412046425604680_338804030_n.jpg"></article>]]></description>
@@ -68,13 +74,6 @@
             <link>http://jxnblk.com/react-fitter-happier-text/</link>
             <guid isPermaLink="false">7ae36059-6f44-41b3-ac57-809731af6f73</guid>
             <pubDate>Thu, 03 Sep 2015 12:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building SVG Icons with React]]></title>
-            <description><![CDATA[<article><h1>Building SVG Icons with React</h1><p>While traditional graphics applications like Adobe Illustrator work well for certain tasks, they fall short when used to create pixel perfect, mathematically-derived graphics. Anyone who's attempted to create data visualizations with such software might have encountered these limitations.</p><img src="http://jxnblk.s3.amazonaws.com/assets/images/cog-sketch-bw.jpg"></article>]]></description>
-            <link>http://jxnblk.com/react-icons/</link>
-            <guid isPermaLink="false">c2531480-3dee-4483-afbe-b24a18b2a9ef</guid>
-            <pubDate>Tue, 01 Sep 2015 13:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
