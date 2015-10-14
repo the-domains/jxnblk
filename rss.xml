@@ -5,8 +5,22 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 14:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 14:43:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2068775/basscss-stats.png">]]></description>
+            <link>https://thegrid.ai/jxnblk/25a24835-3e58-418e-b8ee-cc4b6b5690e1/index.html</link>
+            <guid isPermaLink="false">25a24835-3e58-418e-b8ee-cc4b6b5690e1</guid>
+            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2003785/skull-800.png">]]></description>
+            <link>https://thegrid.ai/jxnblk/4acfed65-56d5-4cc6-8203-b1e0ffe1c63f/index.html</link>
+            <guid isPermaLink="false">4acfed65-56d5-4cc6-8203-b1e0ffe1c63f</guid>
+            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2082954/gravitons-logo.png">]]></description>
@@ -61,20 +75,6 @@
             <link>https://instagram.com/p/ozVt2ZlocY/?taken-by=jxnblk</link>
             <guid isPermaLink="false">2cbe38c4-1d51-4dbd-acec-f427487d3f7e</guid>
             <pubDate>Sat, 05 Sep 2015 15:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No filter]]></title>
-            <description><![CDATA[<article><h1>No filter</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/e15/927659_566101696839923_1397962362_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/ozWCGYFoc9/?taken-by=jxnblk</link>
-            <guid isPermaLink="false">97fba562-eec1-4d98-9590-08875e99f693</guid>
-            <pubDate>Sat, 05 Sep 2015 15:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rgx]]></title>
-            <description><![CDATA[<article><h1>rgx</h1><p></p></article>]]></description>
-            <link>http://jxnblk.com/rgx/</link>
-            <guid isPermaLink="false">d06ee868-a7d5-46fb-aa2c-7014942f9fdc</guid>
-            <pubDate>Tue, 01 Sep 2015 13:22:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
