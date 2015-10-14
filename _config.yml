@@ -1,6 +1,7 @@
 name: jxnblk
 favicon: null
 layout_spectrum: 0.25406
+typography_spectrum: 0.23243
 cta:
   domain: null
   bucket: null
