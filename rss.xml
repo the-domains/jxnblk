@@ -1,81 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[jxnblk]]></title>
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 14:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 17:53:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2121846/react-geomicons.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/a2a893f2-a7d1-4d96-9846-bebfef5a5fee/index.html</link>
-            <guid isPermaLink="false">a2a893f2-a7d1-4d96-9846-bebfef5a5fee</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2126870/basscss-logo.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/e586fe7e-4e92-4ae4-a8bb-cf0042cd2c42/index.html</link>
-            <guid isPermaLink="false">e586fe7e-4e92-4ae4-a8bb-cf0042cd2c42</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2068775/basscss-stats.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/25a24835-3e58-418e-b8ee-cc4b6b5690e1/index.html</link>
-            <guid isPermaLink="false">25a24835-3e58-418e-b8ee-cc4b6b5690e1</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2003785/skull-800.png">]]></description>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2003785/skull-800.png" alt="" title="">]]></description>
             <link>https://thegrid.ai/jxnblk/4acfed65-56d5-4cc6-8203-b1e0ffe1c63f/index.html</link>
             <guid isPermaLink="false">4acfed65-56d5-4cc6-8203-b1e0ffe1c63f</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2015 23:37:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2082954/gravitons-logo.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/34e2fb5a-349d-4fe1-ad26-5dee05a2e299/index.html</link>
-            <guid isPermaLink="false">34e2fb5a-349d-4fe1-ad26-5dee05a2e299</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2128261/v7.png">]]></description>
+            <link>https://thegrid.ai/jxnblk/0be9dffc-111b-46ef-8f07-5b0324cf4fb0/index.html</link>
+            <guid isPermaLink="false">0be9dffc-111b-46ef-8f07-5b0324cf4fb0</guid>
+            <pubDate>Wed, 14 Oct 2015 16:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1940815/colorable-5.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/21467159-cfd6-4840-b3bb-975536ddec34/index.html</link>
-            <guid isPermaLink="false">21467159-cfd6-4840-b3bb-975536ddec34</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2121849/vhs.png" alt="" title="">]]></description>
+            <link>https://dribbble.com/shots/2121849-Blk-Header-Example</link>
+            <guid isPermaLink="false">159248fd-ce1e-44de-bf33-9f17572abd75</guid>
+            <pubDate>Mon, 19 Oct 2015 17:52:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2087815/react-icons-2.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/b896e9f7-0e76-45a0-a165-ee2b74bdf8fa/index.html</link>
-            <guid isPermaLink="false">b896e9f7-0e76-45a0-a165-ee2b74bdf8fa</guid>
-            <pubDate>Wed, 14 Oct 2015 14:42:34 GMT</pubDate>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1728116/fitter-01.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jxnblk/b7b96d83-299f-4d47-950c-055c146d86d9/index.html</link>
+            <guid isPermaLink="false">b7b96d83-299f-4d47-950c-055c146d86d9</guid>
+            <pubDate>Wed, 14 Oct 2015 16:16:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No filter]]></title>
-            <description><![CDATA[<article><h1>No filter</h1><img src="https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/10354336_412046425604680_338804030_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/ozVt2ZlocY/?taken-by=jxnblk</link>
-            <guid isPermaLink="false">4fcc1ec3-3e42-4da0-b69b-04e891f1225f</guid>
-            <pubDate>Wed, 07 Oct 2015 21:29:41 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1743807/fifty-six.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jxnblk/db011425-ad06-43f8-b159-ebca44b979cc/index.html</link>
+            <guid isPermaLink="false">db011425-ad06-43f8-b159-ebca44b979cc</guid>
+            <pubDate>Wed, 14 Oct 2015 16:16:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No filter]]></title>
-            <description><![CDATA[<article><h1>No filter</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/e15/10472035_472153749595595_1191759960_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/pfjCRwFoRB/?taken-by=jxnblk</link>
-            <guid isPermaLink="false">abf03d29-d29f-4007-8881-65846ce54c8d</guid>
-            <pubDate>Wed, 07 Oct 2015 21:29:33 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2121835/blk-components.png">]]></description>
+            <link>https://thegrid.ai/jxnblk/a2756862-9400-4957-8b5a-b62704c826f5/index.html</link>
+            <guid isPermaLink="false">a2756862-9400-4957-8b5a-b62704c826f5</guid>
+            <pubDate>Wed, 14 Oct 2015 16:12:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No filter]]></title>
-            <description><![CDATA[<article><h1>No filter</h1><img src="https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/10474930_1467050846869381_1167149359_n.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jxnblk/no-filter/index.html</link>
-            <guid isPermaLink="false">c588e266-46fc-4b43-a933-0ebdf887405e</guid>
-            <pubDate>Mon, 12 Oct 2015 14:36:20 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1728113/fitter-02.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jxnblk/764eb838-e666-456b-9e6b-9baf6972f71f/index.html</link>
+            <guid isPermaLink="false">764eb838-e666-456b-9e6b-9baf6972f71f</guid>
+            <pubDate>Wed, 14 Oct 2015 16:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1921356/shade-800.png">]]></description>
+            <link>https://thegrid.ai/jxnblk/454556ca-4a01-4f0c-858a-3c1f7c9f0d68/index.html</link>
+            <guid isPermaLink="false">454556ca-4a01-4f0c-858a-3c1f7c9f0d68</guid>
+            <pubDate>Wed, 14 Oct 2015 16:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1921360/attachments/330093/screenshot_2015-02-08_18.27.45.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jxnblk/07626f11-736e-451b-8398-69fb159459a3/index.html</link>
+            <guid isPermaLink="false">07626f11-736e-451b-8398-69fb159459a3</guid>
+            <pubDate>Wed, 14 Oct 2015 14:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1975799/rebass-05.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jxnblk/e36710c1-8401-415d-b945-dafced39f8fd/index.html</link>
+            <guid isPermaLink="false">e36710c1-8401-415d-b945-dafced39f8fd</guid>
+            <pubDate>Wed, 14 Oct 2015 14:47:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
