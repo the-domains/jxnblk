@@ -4,8 +4,15 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 17:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 18:36:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post with a title]]></title>
+            <description><![CDATA[<article><h1>Post with a title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61a6bd8-246c-4c16-8620-bddcb0a18dd7.png"></article>]]></description>
+            <link>https://thegrid.ai/jxnblk/post-with-a-title/index.html</link>
+            <guid isPermaLink="false">7f0a1f2c-07f8-4b54-94c9-decbdec73c7e</guid>
+            <pubDate>Mon, 26 Oct 2015 18:36:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2121846/react-geomicons.png" alt="" title="">]]></description>
@@ -64,17 +71,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1921356/shade-800.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/454556ca-4a01-4f0c-858a-3c1f7c9f0d68/index.html</link>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1921356/shade-800.png" alt="" title="">]]></description>
+            <link>https://dribbble.com/shots/1921356-Shade</link>
             <guid isPermaLink="false">454556ca-4a01-4f0c-858a-3c1f7c9f0d68</guid>
-            <pubDate>Wed, 14 Oct 2015 16:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1921360/attachments/330093/screenshot_2015-02-08_18.27.45.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/jxnblk/07626f11-736e-451b-8398-69fb159459a3/index.html</link>
-            <guid isPermaLink="false">07626f11-736e-451b-8398-69fb159459a3</guid>
-            <pubDate>Wed, 14 Oct 2015 14:47:21 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2015 17:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
