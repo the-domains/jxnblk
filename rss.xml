@@ -4,8 +4,15 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 18:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 01:22:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>for halloween i'm going to dress up as the ghost of coffeescript past pic.twitter.com/UXPloDQDeo</p>]]></description>
+            <link>https://twitter.com/jxnblk/status/658797108959563776</link>
+            <guid isPermaLink="false">18e8d95e-9927-41f7-ab88-930f0659f7e1</guid>
+            <pubDate>Thu, 29 Oct 2015 01:22:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post with a title]]></title>
             <description><![CDATA[<article><h1>Post with a title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61a6bd8-246c-4c16-8620-bddcb0a18dd7.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jxnblk/764eb838-e666-456b-9e6b-9baf6972f71f/index.html</link>
             <guid isPermaLink="false">764eb838-e666-456b-9e6b-9baf6972f71f</guid>
             <pubDate>Wed, 14 Oct 2015 16:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1921356/shade-800.png" alt="" title="">]]></description>
-            <link>https://dribbble.com/shots/1921356-Shade</link>
-            <guid isPermaLink="false">454556ca-4a01-4f0c-858a-3c1f7c9f0d68</guid>
-            <pubDate>Mon, 19 Oct 2015 17:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
