@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T22:24:26.003Z'
-dateModified: '2015-11-11T22:24:24.792Z'
+datePublished: '2015-11-17T12:40:49.996Z'
+dateModified: '2015-11-17T12:40:49.118Z'
 title: Mathematical Web Typography
 sourcePath: _posts/2015-11-09-mathematical-web-type.md
 published: true
@@ -53,7 +53,7 @@ Taking a look at the numbers used in screen-based media, there are a lot of powe
 
 Working with numbers based on powers of two can result in an entire system of rational, often integer, numbers. The normalized scale above starts with 16px (1rem) as a base, and multiplies each by specific factors to create integers. Taking this normalized scale and setting a line-height of either 1.25 or 1.5 yields the following pixel values.
 
-Font Size1.25 Line Height1.5 Line Height12px15px18px14px17.5px21px16px20px24px20px25px30px24px30px36px32px40px48px
+Font Size | 1.25Line Height1.5 Line Height12px15px18px14px17.5px21px16px20px24px20px25px30px24px30px36px32px40px48px
 
 These factors are all based on fractions with a power of two denominator -- or based on halves and doubles.
 
