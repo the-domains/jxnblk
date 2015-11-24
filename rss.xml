@@ -4,14 +4,21 @@
         <description><![CDATA[jxnblk]]></description>
         <link>https://thegrid.ai/jxnblk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 12:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 13:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jxnblk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Mathematical Web Typography]]></title>
-            <description><![CDATA[<h1>Mathematical Web Typography</h1>]]></description>
-            <link>https://thegrid.ai/jxnblk/mathematical-web-typography/index.html</link>
-            <guid isPermaLink="false">0a3dbf63-6971-4553-911b-6147acce49fc</guid>
-            <pubDate>Tue, 17 Nov 2015 12:40:49 GMT</pubDate>
+            <title><![CDATA[Why by Jxnblk]]></title>
+            <description><![CDATA[<article><h1>Why by Jxnblk</h1><p>Explore the largest community of artists, bands, podcasters and creators of music & audio</p></article>]]></description>
+            <link>https://m.soundcloud.com/jxnblk/why</link>
+            <guid isPermaLink="false">94887cb8-8112-4042-8d05-56d9f51bb69a</guid>
+            <pubDate>Tue, 24 Nov 2015 13:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Color Palette Documentation for Living Style Guides]]></title>
+            <description><![CDATA[<article><h1>Color Palette Documentation for Living Style Guides</h1><p>Virtually every style guide has a color palette section in its documentation. Many times I’ve seen this documentation created manually, where every change to a color requires updating the values in two places – the stylesheet and the style guide. This often leads to one falling out of sync with the other, and makes maintaining a living style guide more difficult.</p></article>]]></description>
+            <link>https://thegrid.ai/jxnblk/color-palette-documentation-for-living-style-guides/index.html</link>
+            <guid isPermaLink="false">967e7316-c666-4e8c-90ce-d1d8a75859af</guid>
+            <pubDate>Tue, 24 Nov 2015 10:45:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jxnblk/db011425-ad06-43f8-b159-ebca44b979cc/index.html</link>
             <guid isPermaLink="false">db011425-ad06-43f8-b159-ebca44b979cc</guid>
             <pubDate>Wed, 14 Oct 2015 16:16:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/2121835/blk-components.png">]]></description>
-            <link>https://thegrid.ai/jxnblk/a2756862-9400-4957-8b5a-b62704c826f5/index.html</link>
-            <guid isPermaLink="false">a2756862-9400-4957-8b5a-b62704c826f5</guid>
-            <pubDate>Wed, 14 Oct 2015 16:12:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
