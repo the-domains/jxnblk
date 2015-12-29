@@ -1,6 +1,6 @@
 name: jxnblk
 favicon: null
-layout_spectrum: 0.67026
+layout_spectrum: 0.23292
 typography_spectrum: 0.22161
 title: Jxnblk
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6bf335'
-    - '#5eccc2'
-    - '#35f3e2'
-    - '#f39735'
-    - '#ffffff'
+    - '#00b9f2'
+    - '#7cdcf9'
+    - '#b5eafb'
+    - '#0065a2'
+    - '#008ec9'
   brandStrength: 0
   lightness: 1
   saturation: 0
